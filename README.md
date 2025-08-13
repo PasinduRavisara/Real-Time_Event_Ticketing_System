@@ -19,9 +19,7 @@ The **Real-Time Event Ticketing System** is a Java console-based application des
 
 - **Language:** Java  
 - **Paradigm:** Object-Oriented Programming (OOP)  
-- **Development Tools:** IntelliJ IDEA / Eclipse  
-- **Version Control:** Git & GitHub  
-
+- **Development Tools:** IntelliJ IDEA
 ---
 
 ## 🚀 Installation & Setup
